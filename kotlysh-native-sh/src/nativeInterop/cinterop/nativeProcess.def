@@ -1,0 +1,5 @@
+headers = native_process.h native_launch.h
+headerFilter = native_process.h native_launch.h
+package = com.kotlysh.nativesh.posixshim
+compilerOpts = -D_GNU_SOURCE
+noStringConversion = kotlysh_spawn
