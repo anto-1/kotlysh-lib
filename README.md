@@ -8,6 +8,8 @@
   <b>The universal polyglot DSL, powered by coroutines. Kotlin as the control plane, for every language.</b>
 </p>
 
+---
+
 Kotlysh is an LLM-centric DSL: built for language models to write and for
 people to read. I share it because I notice that LLMs tend to produce more
 reliable code when they write with it. I have also ported several existing
